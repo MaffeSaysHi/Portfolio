@@ -40,13 +40,6 @@ It contains sections such as:
 
 ---
 
-## 🚀 Live Demo
-
-You can explore my portfolio here:  
-👉 [https://MaffeSaysHi.github.io/Portfolio/](https://MaffeSaysHi.github.io/Portfolio/)
-
----
-
 ## 📌 Future Improvements
 
 I plan to enhance this portfolio with:
